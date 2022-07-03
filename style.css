@@ -22,7 +22,7 @@ body{
 .box{
     height: 100px;
     flex-basis: 500px;
-    flex: 1;
+    flex: 1 0 200px;
 }
 
 .one{
